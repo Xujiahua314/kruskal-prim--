@@ -6,7 +6,6 @@
 *.sln.docstates
 
 # Build outputs
-*.exe
 *.out
 *.o
 *.obj
